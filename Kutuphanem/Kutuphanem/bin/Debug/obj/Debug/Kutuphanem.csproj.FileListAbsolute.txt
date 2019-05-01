@@ -1,0 +1,28 @@
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form1.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form2.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form3.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form4.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form6.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form1.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form2.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form3.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form4.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form6.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb

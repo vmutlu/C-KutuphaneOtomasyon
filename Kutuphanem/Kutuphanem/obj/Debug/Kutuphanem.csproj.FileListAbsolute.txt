@@ -1,0 +1,87 @@
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form1.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form2.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form3.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form4.resources
+C:\Users\veysel\Desktop\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form6.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form1.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form2.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form3.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form4.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form6.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+C:\Users\veysel\Desktop\Microsoft SQL\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe.config
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.exe
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\Kutuphanem.pdb
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csprojAssemblyReference.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form1.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form2.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form3.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form4.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form6.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Properties.Resources.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.GenerateResource.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CoreCompileInputs.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.pdb
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Data.v17.1.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Data.v17.1.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.Form5.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.exe.licenses
+D:\CodeBlocks\MinGW\libe\video kayıt\kutuphane\KUTUPHANE-2-\Kutuphane otomasyon\Kutuphanem\Kutuphanem\obj\Debug\Kutuphanem.csproj.CopyComplete
